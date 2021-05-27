@@ -1,0 +1,62 @@
+.h1 {
+    text-align: center;
+}
+.img1 {
+  width:  200px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border-radius: 100%;
+}
+.img2 {
+   width:  200px;
+   height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border-radius: 100%;
+}
+.img3 {
+  width:  200px;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border-radius: 100%;
+}
+.a1 {
+  transition: 0.5s;
+}
+.a1:hover {
+  opacity: 0.5;
+  transition: 0.5s;
+}
+.a2 {
+  transition: 0.5s;
+}
+.a2:hover {
+  text-align: end;
+  opacity: 0.5;
+  transition: 0.5s;
+}
+.a3 {
+  transition: 0.5s;
+}
+.a3:hover {
+  opacity: 0.5;
+  transition: 0.5s;
+}
+.h3 {
+  float: left;
+
+}
+.font {
+  font-family: 'Roboto', sans-serif;
+}
+.back {
+  text-align: center;
+}
+.p {
+  
+}
